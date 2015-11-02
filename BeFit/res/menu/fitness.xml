@@ -1,0 +1,71 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.samplebefit.FitnessActivity" >
+
+    
+
+    <item
+        android:id="@+id/action_profile"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/profile"/>
+   <!--   <item
+        android:id="@+id/action_weight_chart"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/weight"/>
+    <item
+        android:id="@+id/action_delhistory"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/delhistory"/>-->
+    
+    <!--  <item android:id="@+id/action_unregister_listener"
+        android:title="@string/action_unregister_listener"
+        android:orderInCategory="100"
+         />
+    
+    <item android:id="@+id/action_dump_subs"
+        android:title="@string/action_dump_subs"
+        android:orderInCategory="100"
+        />
+
+    <item android:id="@+id/action_cancel_subs"
+        android:title="@string/action_cancel_subs"
+        android:orderInCategory="100"
+         />
+    <item android:id="@+id/action_delete_data"
+        android:title="@string/action_delete_session"
+        android:orderInCategory="100"
+         /> 
+    
+    <item
+        android:id="@+id/action_logcat"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_show_logcat"/> -->
+    <item
+        android:id="@+id/action_statistics"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_statistics"/>
+    <item
+        android:id="@+id/action_refresh"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_refresh"/>
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    
+    <item 
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/logout"></item>
+    
+
+</menu>

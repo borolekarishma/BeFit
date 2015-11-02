@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeFit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_add">Add</string>
+    <string name="intro_text">Hi! Let\'s listen to some available data sources! Check the menu for more actions!</string>
+    <string name="title_activity_main">BeFit: LogIn</string>
+    <string name="title_activity_sign_up">BeFit: SignUp</string>
+    <string name="name">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_account">Create New Account</string>
+    <string name="title_activity_fitness">BeFit</string>
+    <string name="action_unregister_listener">Unregister listener</string>
+    <string name="action_dump_subs">List Active Subscriptions</string>
+    <string name="action_cancel_subs">Cancel subscriptions</string>
+    <string name="action_delete_session">Delete step count data</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_show_logcat">Show Logcat</string>
+    <string name="action_statistics">Display Statistics</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_view">BeFit: Display Statistics</string>
+
+    <string name="profile">Weight Chart</string>
+    <string name="weight">Weight Chart</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="basicinfo">Basic Information</string>
+    <string name="wgh">Weight</string>
+    <string name="delhistory">Delete History</string>
+    <string name="ft">Ft</string>
+    <string name="in">Inch</string>
+    <string name="height">Height</string>
+
+    <string name="pedaling">Pedaling count goes here</string>
+    
+    <string-array name="weight_units">
+        <item>Kgs</item>
+        <item>lbs</item>
+    </string-array>
+    <string-array name="height_units">
+        <item>Centimeters</item>
+        <item>Feet and inches</item>
+    </string-array>
+    <string-array name="gender">
+        <item>female</item>
+        <item>male</item>
+    </string-array>
+    <string-array name="workout_schedule">
+        <item>Sedentary</item>
+        <item>Lightly Active</item>
+        <item>Moderately Active</item>
+        <item>Highly Active</item>
+        <item>Extra Active</item>
+    </string-array>
+    <string-array name="meal_type">
+        <item>BreakFast</item>
+        <item>Afternoon Snack</item>
+        <item>Lunch</item>
+        <item>Evening Snack</item>
+        <item>Dinner</item>
+    </string-array>
+
+    <string name="yrs">years</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="notification">Notification</string>
+    <string name="sound">Sound</string>
+    <string name="getnotify">Get Notification</string>
+    <string name="goal">Daily Goal</string>
+    <string name="active">Active Time</string>
+    <string name="hr">Hr</string>
+    <string name="min">Min</string>
+    <string name="title_activity_calorie">CalorieActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_food_item">FoodItemActivity</string>
+    <string name="logout">Logout</string>
+    <string name="save">Save</string>
+    <string name="workoutschedule">Workout Schedule</string>
+    <string name="logyourmeal">Log Your Meal</string>
+    <string name="stepcount">Steps count will be displayed here</string>
+    <string name="mealtype">Meal Type</string>
+    <string name="search">Search</string>
+    
+    
+</resources>
